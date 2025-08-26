@@ -1,0 +1,8 @@
+## POST /rewrite
+Rewrites content and returns raw output
+
+## POST /tone
+Applies tone transformation using LLM
+
+## GET /status
+Returns agent health and config

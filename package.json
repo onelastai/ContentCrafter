@@ -1,0 +1,13 @@
+{
+  "name": "contentcrafter",
+  "version": "0.1.0",
+  "description": "AI agent for rewriting and tone control",
+  "main": "src/index.ts",
+  "scripts": {
+    "start": "ts-node src/index.ts"
+  },
+  "dependencies": {
+    "ts-node": "^10.0.0"
+  }
+}
+

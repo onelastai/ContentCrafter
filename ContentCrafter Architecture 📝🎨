@@ -1,0 +1,7 @@
+ContentCrafter is built as a modular TypeScript agent with the following layers:
+- Rewriter Layer: Reads and rewrites content
+- Tone Layer: Applies emotional or stylistic tone
+- Config Layer: Centralized agent settings
+- Utils Layer: Logging and helpers
+- Public Layer: Branding assets
+
